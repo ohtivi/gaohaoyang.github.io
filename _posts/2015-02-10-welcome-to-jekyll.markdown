@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "hello jekyll!"
+title:  "Hello Jekyll!"
 date:   2015-02-10 15:14:54
 categories: jekyll
 tags: jekyll
-excerpt: 当年创建 jekyll 时默认的一篇文章，没什么意义，我也一直没删除，留个纪念吧。
+excerpt: This is the first post on website use markdown in Jekyll
 mathjax: true
 ---
 
